@@ -6,7 +6,7 @@ export default function Footer() {
       </div>
       <div className='SocialIcons absolute right-5 flex top-4 gap-2'>
         <a
-          href='https://www.linkedin.com/in/tiago-cruz1224/'
+          href='https://www.linkedin.com/in/tiagocruz1224/'
           target='_blank'
           rel='noopener noreferrer'
         >
