@@ -10,7 +10,7 @@ export default function App() {
     {
       title: 'Frontend + BackEnd (Php/Laravel)',
       description: 'Projeto desenvolvido para a universidade - Desenvolvimento de Aplicações web',
-      link: 'https://github.com/TiagoCruz1224/TiagoCruz1224',
+      link: 'https://github.com/TiagoCruz1224/daw2',
     },
     {
       title: 'Criação de site "NBA"',
@@ -20,7 +20,7 @@ export default function App() {
     {
       title: 'Criação de um site para a minha marca pessoal',
       description: 'Projeto desenvolvido para a universidade - Portefolio Pessoal',
-      link: 'https://github.com/TiagoCruz1224/NBA_FRONTEND',
+      link: 'https://github.com/TiagoCruz1224/portfolio',
     },
   ];
 

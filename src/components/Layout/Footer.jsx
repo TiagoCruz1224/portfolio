@@ -12,8 +12,8 @@ export default function Footer() {
         >
           <img src='/images/linkedin-icon.jpg' alt='LinkedIn' className='w-6 h-6' />
         </a>
-        <a href='https://www.instagram.com/tiagocruzdev/' target='_blank' rel='noopener noreferrer'>
-          <img src='/images/instagram-icon.png' alt='Instagram' className='w-6 h-6' />
+        <a href='mailto:tfpcruz2003@gmail.com' target='_blank' rel='noopener noreferrer'>
+          <img src='/images/gmail.png' alt='gmail' className='w-6 h-6' />
         </a>
         <a href='https://github.com/TiagoCruz1224' target='_blank' rel='noopener noreferrer'>
           <img src='/images/github-icon.png' alt='GitHub' className='w-6 h-6' />
