@@ -9,17 +9,17 @@ export default function App() {
   const projects = [
     {
       title: 'Frontend + BackEnd (Php/Laravel)',
-      description: 'Projeto desenvolvido para a universidade - Desenvolvimento de Aplicações web',
+      description: 'Projeto desenvolvido em contexto académico - Desenvolvimento de Aplicações web',
       link: 'https://github.com/TiagoCruz1224/daw2',
     },
     {
       title: 'Criação de site "NBA"',
-      description: 'Projeto desenvolvido para a universidade - Introdução ao Desenvolvimento Web',
+      description: 'Projeto desenvolvido em contexto académico - Introdução ao Desenvolvimento Web',
       link: 'https://github.com/TiagoCruz1224/NBA_FRONTEND',
     },
     {
       title: 'Criação de um site para a minha marca pessoal',
-      description: 'Projeto desenvolvido para a universidade - Portefolio Pessoal',
+      description: 'Projeto desenvolvido em contexto académico - Portfólio Pessoal',
       link: 'https://github.com/TiagoCruz1224/portfolio',
     },
   ];
@@ -48,18 +48,20 @@ export default function App() {
                   <br /> Chamo-me Tiago Cruz, tenho 20 anos e estou empenhado em seguir uma carreira
                   no desenvolvimento web. Atualmente, sou estudante na Universidade de
                   Trás-os-Montes e Alto Douro (UTAD), no 3º ano do curso de Comunicação e
-                  Multimedia. <br />
+                  Multimédia. <br />
                   Durante o meu percurso académico, adquiri conhecimentos em HTML, CSS, PHP e
                   Laravel, construindo uma base sólida em desenvolvimento web.{' '}
                 </p>
                 <p className='mt-4 ml-10 mr-10 text-center text-xl'>
-                  No momento, estou a aprofundar os meus conhecimentos em React, uma tecnologia que
-                  promete expandir as minhas habilidades para novos horizontes. <br />
+                  No momento estou a aprender uma nova linguagem de programação, conhecida como
+                  React, uma biblioteca <br /> front-end de JavaScript que promete ser uma mais
+                  valia para o meu futuro.
+                  <br />
                   Estou entusiasmado com os desafios e oportunidades que o desenvolvimento web
                   oferece. Acredito que a combinação de criatividade, aprendizado contínuo e
                   dedicação são essenciais para o sucesso nesta área dinâmica. Estou ansioso para
-                  explorar novas possibilidades e ver onde esta jornada de desenvolvimento web me
-                  levará!
+                  explorar novas possibilidades e ver até onde esta jornada de desenvolvimento web
+                  me levará!
                 </p>
               </section>
             </div>
@@ -83,13 +85,13 @@ export default function App() {
               <Card
                 title='JAVASCRIPT'
                 description={
-                  'Iniciei esta jornada de codificação com JavaScript logo apos o html e o css. Apartir dai comecei o criar paginas interativas e dinamicas com muita facilidade!'
+                  'Iniciei esta jornada de codificação com JavaScript logo após o HTML e o CSS. A partir daí comecei a criar páginas interativas e dinâmicas com muita facilidade!'
                 }
               />
               <Card
                 title='REACT.JS'
                 description={
-                  'Ainda na jornada para aprender mais sobre esta biblioteca de javascript...'
+                  'Ainda na jornada para aprender mais sobre esta biblioteca de JavaScript...'
                 }
               />
               <Card
