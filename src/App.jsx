@@ -53,12 +53,12 @@ export default function App() {
                   Laravel, construindo uma base sólida em desenvolvimento web.{' '}
                 </p>
                 <p className='mt-4 ml-10 mr-10 text-center text-xl'>
-                  No momento estou a aprender uma nova linguagem de programação, conhecida como
+                  Neste momento estou a aprender uma nova linguagem de programação, conhecida como
                   React, uma biblioteca <br /> front-end de JavaScript que promete ser uma mais
                   valia para o meu futuro.
                   <br />
                   Estou entusiasmado com os desafios e oportunidades que o desenvolvimento web
-                  oferece. Acredito que a combinação de criatividade, aprendizado contínuo e
+                  oferece. Acredito que a combinação de criatividade, aprendizagem contínua e
                   dedicação são essenciais para o sucesso nesta área dinâmica. Estou ansioso para
                   explorar novas possibilidades e ver até onde esta jornada de desenvolvimento web
                   me levará!
